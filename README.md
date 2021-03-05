@@ -12,9 +12,9 @@
 - ⚡ Fun fact: ...
 <div class="row">
 
-[![Sanyam's top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sanyam1992000&theme=dark)](https://github.com/sanyam1992000/sanyam19920000) [![Sanyam's top languages stats](https://github-readme-stats.vercel.app/api?username=sanyam1992000&show_icons=true&theme=dark)](https://github.com/sanyam1992000/sanyam19920000)
+[![Akarsh's top languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsh711&theme=dark)](https://github.com/Akarsh711/Akarsh711)
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akarsh711&show_icons=true&theme=radical)
+![Akarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akarsh711&show_icons=true&theme=radical)
 
 
 
