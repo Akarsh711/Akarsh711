@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1> Hi, My name is Akarsh Paliwal</h1>
-<h3> Django Developer || Api Developer</h3>
+<h1 align="center"> Hi, My name is Akarsh Paliwal</h1>
+<h3 align="center"> Django Developer || Api Developer</h3>
 
 - 🔭 I’m currently working on **Django**
 - 🌱 I’m currently learning React
