@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- https://img.shields.io/static/v1?label=<LABEL>&message=Test&color=Red
+https://img.shields.io/badge/-test-green
 ## My name is Akarsh
 
