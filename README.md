@@ -11,7 +11,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akarsh711&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Akarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akarsh711&show_icons=true&theme=radical)
+![Akarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akarsh711&show_icons=true&theme=dracula)
 
 </div>
 
