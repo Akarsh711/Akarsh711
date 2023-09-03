@@ -1,13 +1,12 @@
 
 <h1 align="center"> Hi, My name is Akarsh Paliwal</h1>
-<h3 align="center"> Django Developer || Api Developer</h3>
+<h3 align="center"> Django/React Developer || Api Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyam1992000" alt="sanyam1992000" /> </p>
 
--  I’m currently working on **Django**
 
--  I’m currently learning **React**
+-  I'm currently working on MERN & Dotnet
 
--  Ask me about Python, Cpp, Django
+-  Ask me about Python, Cpp, Django, MERN, Dotnet
   
 -  How to reach me: paliwalap7@gmail.com
 
